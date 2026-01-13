@@ -1,2 +1,2 @@
 # Anti-Spoofing-Face-Recognition-System
-Real-time face recognition system with basic anti-spoofing (liveness detection) using Python, OpenCV, and MediaPipe.
+This project implements a real-time anti-spoofing face recognition system using Python. It captures live video through a webcam, detects faces using OpenCV, and extracts facial landmarks using MediaPipe. The system aims to identify spoofing attempts such as printed photos or screen replays by analyzing facial features and motion cues. The project is currently under development with ongoing improvements to liveness detection logic.
